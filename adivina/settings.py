@@ -26,7 +26,7 @@ SECRET_KEY = 'ap&2m(ew0s%#2*8vf+w2@1e3(vsd7gi4r5j+u2d3tab+tvw%@t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ronto1138.pythonanywhere.com','localhost', '127.0.0.1']
 
 
 # Application definition
